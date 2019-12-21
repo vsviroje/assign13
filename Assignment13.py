@@ -15,7 +15,7 @@ def isConnected():
 def errormsg():
 	print("First write valid emailid and password in 'sendmail()' of 'HelperModule' and your account should have permission for 'Less secure app access'")
 	print("Right way to give cmdline arguments is below:")
-	print("python   python-script-name.py    Absolute-directory-name    number-of-time-interval-in-Minutes   valid-email-address_of_sender")
+	print("python3   python-script-name.py    Absolute-directory-name    numassign13ber-of-time-interval-in-Minutes   valid-email-address_of_sender")
 	print("thats it..press enter...thank you")
 
 def jodtoschedule(emailid,abspath):
